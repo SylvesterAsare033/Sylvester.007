@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - **Tools:** Git, Docker, Kubernetes, AWS
 
 ## 📈 GitHub Stats
-![SylvesterAsare033's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SylvesterAsare033&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SylvesterAsare033&layout=pie&hide_title=true&langs_count=9&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=SylvesterAsare033&layout=pie&hide_title=true&langs_count=9&hide_values=true&theme=transparent)
 
 ## 🔗 Connect with me
 [LinkedIn](https://www.linkedin.com/in/sylvester-asare)
